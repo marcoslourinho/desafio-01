@@ -1,7 +1,7 @@
 # Desafio-01
 Desafio Emperium Teste Básico
 
-# Teste Básico Estágio - Criação de uma lista de compras simples
+## Teste Básico Estágio - Criação de uma lista de compras simples
 
 1. Implementar um sistema simples para lista de compras.
 
@@ -36,7 +36,7 @@ Desafio Emperium Teste Básico
 
 ### Muita atenção
 
-1. Incluir também no repositório um arquivo **README** com instruções para rodar os projetos. É muito importante que funcione.
+- Incluir também no repositório um arquivo **README** com instruções para rodar os projetos. É muito importante que funcione.
 
 ## Extras
 
